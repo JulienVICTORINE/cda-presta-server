@@ -2,7 +2,7 @@ Presta.re est une plateforme en ligne destinée à promouvoir les autoentreprene
 Les utilisateurs peuvent s’inscrire en tant que prestataires et présenter leurs services. 
 Un rôle administrateur valide les inscriptions et gère les informations des prestataires.
 
-Fonc%onnalités principales :
+Fonctionnalités principales :
 Inscription et Connexion :
 • Les prestataires peuvent s’inscrire en fournissant leurs informations personnelles.
 • Les utilisateurs peuvent se connecter à leur compte.
